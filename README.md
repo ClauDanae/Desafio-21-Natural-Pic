@@ -4,4 +4,3 @@ Modulo React II
 
 Home --> Distintas imagenes/fotos
 Favoritos --> Sólo mostrará las fotos que fueron seleccionadas/"Corazón"
-Contabilizador de seleccionadas/"Corazón"
